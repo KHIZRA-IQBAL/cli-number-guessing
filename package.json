@@ -1,0 +1,18 @@
+{
+  "name": "ks29fcli-number-guessing",
+  "version": "1.0.1",
+  "description": "this is cli simple guessing game",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
